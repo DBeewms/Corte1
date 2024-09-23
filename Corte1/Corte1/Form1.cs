@@ -16,5 +16,40 @@ namespace Corte1
         {
             InitializeComponent();
         }
+
+        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tbNombres_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tbApellidos_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cmbCiudad_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblMayorEdad_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void mostrarEdad_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
